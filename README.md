@@ -1,4 +1,6 @@
 # bar_nano_no_boom
+Beyond All Reason tweak/mod
+
 Removes explosions from construction turrets (nanos)
 
 Paste this into Tweak Units in Cheats:
